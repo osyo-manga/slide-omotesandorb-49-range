@@ -14,6 +14,7 @@
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * Rails 歴 1年半
 * 趣味で Ruby にパッチを投げています
+* 好きな gem：RSpec
 * Ruby 2.7 出来になってる機能
   * Numbered parameters（略してナンパラ）
   * pipeline operator
