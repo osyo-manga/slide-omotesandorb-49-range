@@ -32,11 +32,11 @@
 #### Range の基本
 - - -
 
-* `(first...last)` みたいなシンタックスで定義
+* `(first...last)` みたいなシンタックスで定義            <!-- .element: class="fragment" -->
   * `Range.new(frst, last)` と同等
-* `(1..5)` だと `5` を含む
-* `(1...5)` だと `5` を含まない
-* `#===` や `#cover?` で範囲チェック出来る
+* `(1..5)` だと `5` を含む            <!-- .element: class="fragment" -->
+* `(1...5)` だと `5` を含まない            <!-- .element: class="fragment" -->
+* `#===` や `#cover?` で範囲チェック出来る            <!-- .element: class="fragment" -->
 
 ```ruby
 # 数値で範囲を定義
