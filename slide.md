@@ -14,9 +14,10 @@
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * Rails 歴 1年半
 * 趣味で Ruby にパッチを投げています
-* 好きなメソッド：tap
-* 好きな gem：rspec
-* 好きなエディタ：Vim
+* Ruby 2.7 出来になってる機能
+  * Numbered parameters（略してナンパラ）
+  * pipeline operator
+  * irb
 
 ---
 
